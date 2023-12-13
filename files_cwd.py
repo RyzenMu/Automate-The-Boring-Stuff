@@ -10,5 +10,5 @@ for i in range(5):
 abspath = os.path.abspath(path)
 print(abspath)
 # isabs() function gives the boolean value whether it is absolute path 
-# to create a new folder use os.path.mkdirs(absolutepath)
+# to create a new folder use os.path.mkdirs(absolutepath)##
    
