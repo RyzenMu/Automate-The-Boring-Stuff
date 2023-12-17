@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "d:\AutomateTheBoringStuff\debugging_trace_back.py", line 3, in <module>
+    raise Exception ("An Exception is raised")
+Exception: An Exception is raised
+Traceback (most recent call last):
+  File "d:\AutomateTheBoringStuff\debugging_trace_back.py", line 3, in <module>
+    raise Exception ("An Exception is raised")
+Exception: An Exception is raised

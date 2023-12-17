@@ -1,0 +1,1 @@
+raise Exception ("This is an raised exception message")
